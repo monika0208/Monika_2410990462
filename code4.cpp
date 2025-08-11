@@ -14,3 +14,4 @@ int main(){
     car a,b,c,d;
     cout<<car::totalcar;
 }
+
